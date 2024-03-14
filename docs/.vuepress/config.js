@@ -2,6 +2,7 @@ module.exports = {
   title: "怡然的博客",
   description: "云间数点红,撞落在我怀中",
   theme: 'reco',
+  base:'/blogs/',
   themeConfig: {
     author: "怡然",
     subSidebar: 'auto',
