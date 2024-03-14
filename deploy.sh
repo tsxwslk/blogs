@@ -7,13 +7,13 @@ set -e
 npm run docs:build
 
 # 进入生成的文件夹
-# cd docs/.vuepress/dist
+cd docs/.vuepress/dist
 
-# git init
-# git add -A
-# git commit -m 'deploy'
+git init
+git add -A
+git commit -m 'deploy'
 
 
-# git push -f https://github.com/tsxwslk/blogs.git master:gh-pages
+git push -f https://github.com/tsxwslk/blogs.git master:gh-pages
 
-# cd -
+cd -
