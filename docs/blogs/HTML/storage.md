@@ -2,7 +2,7 @@
 title: cookie、sessionStorage 和 localStorage
 date: 2021-8-13
 categories:
-  - 前端
+  - HTML
 tags:
   - HTML
 ---

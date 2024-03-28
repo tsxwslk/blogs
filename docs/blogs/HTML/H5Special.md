@@ -2,7 +2,7 @@
 title: HTML5新特性
 date: 2021-8-13
 categories:
-  - 前端
+  - HTML
 tags:
   - HTML
   - HTML5
