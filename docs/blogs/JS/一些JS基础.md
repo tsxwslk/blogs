@@ -51,7 +51,7 @@ typeof "wenbo"; //string
 typeof true; //boolean
 typeof undefined; //undefined
 typeof Symbol(1); //symbol
-typeof 1n; //bight
+typeof 1n; //bigint
 ```
 ::: 
 因为`typeof`判断对象的类型为 Object，不会精确到哪种对象，会不准确。推荐使用`Object.prototype.toString.call()`代替以上进行判断数据类型。

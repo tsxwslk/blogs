@@ -4,7 +4,7 @@ module.exports = {
   theme: "reco",
   base: "/blogs/",
   markdown: {
-    extractHeaders: ["h2", "h3", "h4"],
+    extractHeaders: ["h2", "h3"],
   },
   themeConfig: {
     author: "怡然",
