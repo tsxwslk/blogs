@@ -800,11 +800,6 @@ Array.prototype.myEvery = function(callback, initialValue) {
 };
 ```
 
-## 封装 call，apply，bind
-
-```js
-```
-
 ## 获取 URL 参数
 
 ```javascript

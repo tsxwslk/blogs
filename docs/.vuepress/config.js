@@ -3,6 +3,9 @@ module.exports = {
   description: "云间数点红,撞落在我怀中",
   theme: "reco",
   base: "/blogs/",
+  markdown: {
+    extractHeaders: ["h2", "h3", "h4"],
+  },
   themeConfig: {
     author: "怡然",
     subSidebar: "auto",
